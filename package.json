@@ -1,0 +1,15 @@
+{
+  "name": "task-management-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Session 1 assignment: task and user modules with in-memory storage.",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
